@@ -9,4 +9,4 @@ Layout: Home
 
 What a **Wednesday** it is.....
 
-|[alt text](hong kong.jpg)
+|[me](hongkong.jpg)
