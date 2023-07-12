@@ -8,3 +8,5 @@ Layout: Home
 ## My life is a lie
 
 What a **Wednesday** it is.....
+
+|
